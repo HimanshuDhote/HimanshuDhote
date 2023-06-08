@@ -1,4 +1,4 @@
-## Hello, fellow cybersecurity enthusiasts! Welcome to my GitHub profile. 👋
+## Hello, I am excited to have you on my GitHub profile. 👋
 
 I'm a cybersecurity professional with 5 years of experience in the industry, specializing in Web/Mobile Application Security, External Penetration Testing, Vulnerabilities Assessment, Configuration Review, Security Audits and security analysis.
 
