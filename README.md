@@ -9,3 +9,5 @@ I actively engage in open source security projects, leveraging the power of coll
 My goal is to secure and protect critical systems, networks, and data, helping organizations strengthen their cyber defenses.
 
 Reach out to me for collaboration, discussions, or simply to exchange ideas. I'm eager to connect with every individuals who share a passion for cybersecurity!
+
+[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuDhote)](https://github.com/HimanshuDhote/github-readme-stats)
