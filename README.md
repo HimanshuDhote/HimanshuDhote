@@ -11,3 +11,4 @@ My goal is to secure and protect critical systems, networks, and data, helping o
 Reach out to me for collaboration, discussions, or simply to exchange ideas. I'm eager to connect with every individuals who share a passion for cybersecurity!
 
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuDhote)](https://github.com/HimanshuDhote/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HimanshuDhote)](https://git.io/streak-stats)
