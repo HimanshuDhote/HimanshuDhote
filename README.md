@@ -1,8 +1,8 @@
 ## Hello, fellow cybersecurity enthusiasts! Welcome to my GitHub profile. 👋
 
-I am a highly motivated Cyber Security Professional with 5 years of experience in cybersecurity with an Industry exposure to Banking, Finance, Insurance and Energy Sectors.
+I'm a cybersecurity professional with 5 years of experience in the industry, specializing in Web/Mobile Application Security, External Penetration Testing, Vulnerabilities Assessment, Configuration Review, Security Audits and security analysis.
 
-Constantly honing my skills in offensive and defensive techniques, I strive to contribute to a safer digital world.
+I'm Constantly honing my skills in offensive and defensive techniques, I strive to contribute to a safer digital world.
 
 I actively engage in open source security projects, leveraging the power of collaboration to develop innovative solutions and share knowledge.
 
@@ -14,4 +14,4 @@ Lifelong learner: I immerse myself in cybersecurity literature, attend industry 
 
 I believe in fostering a strong cybersecurity community. Let's join forces, share insights, and make a collective impact in safeguarding the digital realm.
 
-Reach out to me for collaboration, discussions, or simply to exchange ideas. I'm eager to connect with like-minded individuals who share a passion for cybersecurity!
+Reach out to me for collaboration, discussions, or simply to exchange ideas. I'm eager to connect with every individuals who share a passion for cybersecurity!
